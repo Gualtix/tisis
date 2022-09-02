@@ -1,0 +1,5 @@
+Búsqueda y visualización de estructuras de árbol en narraciones mediante NLP y reconocimiento de voz
+
+Generación de formulario de compra mediante narraciones utilizando NLP y reconocimiento de voz
+
+Automatización de tareas en Sistemas Operativos mediante Reconocimiento de Iconos y Machine Learning
