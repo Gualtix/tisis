@@ -1,5 +1,10 @@
 # Computer Vision
 
+1.1 Introducción a OpenCV
+2.2 Fundamentos de la clasificación de imágenes
+3.2 Detección de Iconos mediante Cascades Template Matching
+4.4 Dibujo de figuras mediante OpenCV
+
 Computer vision is an interdisciplinary field of Artificial Intelligence that aims to give computers and other devices with computing capabilities a high-level understanding from both digital images and videos, including functionality for acquiring, processing, and analyzing digital images. This is why computer vision is, partly, another sub-area of Artificial Intelligence, heavily relying on machine learning and deep learning algorithms to build computer vision applications. Additionally, Computer vision is composed of several technologies working together—Computer graphics, Image processing, Signal processing, Sensor technology, Mathematics, or even Physics.
 
 ![](2022-09-01-22-26-39.png)
