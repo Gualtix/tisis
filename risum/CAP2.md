@@ -143,11 +143,11 @@ In addition to hardware and data, until the late 2000s, we were missing a reliab
 algorithmic improvements that allowed for better gradient propagation: 
 
  Better activation functions for neural layers 
- Better weight-initialization schemes, starting with layer-wise pretraining, which was then quickly abandoned
+ Better weight- schemes, starting with layer-wise pretraining, which was then quickly abandoned
  Better optimization schemes, such as RMSProp and Adam
 
 Only when these improvements began to allow for training models with 10 or more layers did deep learning start to shine. Finally, in 2014, 2015, and 2016, even more advanced ways to improve gradient
 propagation were discovered, such as batch normalization, residual connections, and depthwise separable convolutions.
 
 
-# The mathematical building blocks of neural networks
+# The mathematical building blocks of neural networksinitialization
