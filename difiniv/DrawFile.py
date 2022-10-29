@@ -1,13 +1,10 @@
 import win32gui
 import win32api
-import pyautogui
 import time
-import cv2
+
 
 class Draw:
-
     
-
     def __init__(self):
         self.red    = win32api.RGB(255, 0, 0)
         self.green  = win32api.RGB(0, 255, 0)
@@ -44,7 +41,8 @@ class Draw:
                 win32gui.SetPixel(dc, x + width - j, i, color)
     
     def draw_frame_by_center(self,x, y, width, height,color):
-        self.draw_frame_by_sup_left_corner(x + width // 2, y + height // 2, width, height, color)
+        self.draw_frame_by_sup_left_corner((x - (width // 2)),(y - (height // 2)),width,height,color)
+        #self.draw_frame_by_sup_left_corner(x + width // 2, y + height // 2, width, height, color)
 
     def draw_circle(self,x, y, radius):
         
