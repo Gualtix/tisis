@@ -1,0 +1,27 @@
+{
+    "correlative": 1,
+    "object_id": 9164491240758317025,
+    "sequence_name": "Check Price Alteration",
+    "step_list": [
+        {
+            "name": "search_by_object_id",
+            "micro_tasks_list": [
+                {
+                    "name": "cv_click",
+                    "template": "tboxsearch.png",
+                    "description": "Template tboxsearch.png Successfully Found",
+                    "exeption": "",
+                    "success": true
+                },
+                {
+                    "name": "cv_paste",
+                    "template": "tboxsearch.png",
+                    "description": "value is -> 9164491240758317025",
+                    "exeption": "",
+                    "success": true
+                }
+            ]
+        }
+    ]
+}
+
